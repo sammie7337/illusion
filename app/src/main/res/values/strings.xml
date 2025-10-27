@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">FLOWVENTORY</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">FLOWVENTORY</string>
+    <string name="nav_header_subtitle">Inventory Management</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Navigation Menu -->
+    <string name="menu_dashboard">Dashboard</string>
+    <string name="menu_products">Products</string>
+    <string name="menu_stock">Stock</string>
+    <string name="menu_suppliers">Suppliers</string>
+    <string name="menu_customers">Customers</string>
+    <string name="menu_reports">Reports</string>
+    <string name="menu_settings">Settings</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="total_products">Total Products</string>
+    <string name="low_stock">Low Stock</string>
+    <string name="out_of_stock">Out of Stock</string>
+    <string name="total_sales">Total Sales</string>
+
+    <!-- Products -->
+    <string name="products_title">Products</string>
+    <string name="add_product">Add Product</string>
+    <string name="edit_product">Edit Product</string>
+    <string name="delete_product">Delete Product</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_category">Category</string>
+    <string name="product_price">Price</string>
+    <string name="product_stock">Stock</string>
+    <string name="product_supplier">Supplier</string>
+
+    <!-- Stock -->
+    <string name="stock_title">Stock Management</string>
+    <string name="stock_in">Stock In</string>
+    <string name="stock_out">Stock Out</string>
+    <string name="stock_adjustment">Adjustment</string>
+    <string name="stock_return">Return</string>
+
+    <!-- Suppliers -->
+    <string name="suppliers_title">Suppliers</string>
+    <string name="add_supplier">Add Supplier</string>
+    <string name="supplier_name">Supplier Name</string>
+    <string name="contact_person">Contact Person</string>
+    <string name="supplier_email">Email</string>
+    <string name="supplier_phone">Phone</string>
+    <string name="supplier_address">Address</string>
+    <string name="supplier_city">City</string>
+    <string name="supplier_country">Country</string>
+
+    <!-- Customers -->
+    <string name="customers_title">Customers</string>
+    <string name="add_customer">Add Customer</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="customer_email">Email</string>
+    <string name="customer_phone">Phone</string>
+    <string name="customer_address">Address</string>
+    <string name="customer_city">City</string>
+    <string name="customer_country">Country</string>
+    <string name="customer_type">Customer Type</string>
+
+    <!-- Reports -->
+    <string name="reports_title">Reports</string>
+    <string name="inventory_report">Inventory Report</string>
+    <string name="sales_report">Sales Report</string>
+    <string name="stock_report">Stock Report</string>
+
+    <!-- Common -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="add">Add</string>
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+    <string name="logout">Logout</string>
+
+    <!-- Alerts -->
+    <string name="low_stock_alert">Low Stock Alert</string>
+    <string name="out_of_stock_alert">Out of Stock Alert</string>
+    <string name="stock_updated">Stock Updated</string>
+    <string name="product_added">Product Added</string>
+    <string name="product_updated">Product Updated</string>
+    <string name="product_deleted">Product Deleted</string>
+
+    <!-- Legacy strings for compatibility -->
+    <string name="menu_transform">Transform</string>
+    <string name="menu_reflow">Reflow</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="lorem_ipsum_title">Lorem Ipsum"</string>
+    <string name="lorem_ipsum">Lorem Ipsum is simply placeholder text of the printing and
+        typesetting industry. Lorem Ipsum has been the industry\'s standard placeholder text ever
+        since the 1500s, when an unknown printer took a galley of type and scrambled it to make a
+        type specimen book"
+    </string>
+    <string name="fab_content_description">Represents a view to invoke an action</string>
+    <string name="image_view_item_transform_content_description">Represents an image view in the
+        item
+    </string>
+</resources>

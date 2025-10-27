@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary_color">#FF2196F3</color>
+    <color name="primary_dark">#FF1976D2</color>
+    <color name="primary_light">#FFBBDEFB</color>
+    
+    <!-- Secondary Colors -->
+    <color name="secondary_color">#FF4CAF50</color>
+    <color name="secondary_dark">#FF388E3C</color>
+    <color name="secondary_light">#FFC8E6C9</color>
+    
+    <!-- Accent Colors -->
+    <color name="accent_color">#FFFF9800</color>
+    <color name="accent_dark">#FFF57C00</color>
+    <color name="accent_light">#FFFFE0B2</color>
+    
+    <!-- Status Colors -->
+    <color name="success_color">#FF4CAF50</color>
+    <color name="warning_color">#FFFF9800</color>
+    <color name="error_color">#FFF44336</color>
+    <color name="info_color">#FF2196F3</color>
+    
+    <!-- Text Colors -->
+    <color name="primary_text">#DE000000</color>
+    <color name="secondary_text">#8A000000</color>
+    <color name="hint_text">#61000000</color>
+    <color name="disabled_text">#38000000</color>
+    
+    <!-- Background Colors -->
+    <color name="background_light">#FFF5F5F5</color>
+    <color name="background_dark">#FF121212</color>
+    <color name="surface_color">#FFFFFFFF</color>
+    <color name="card_background">#FFFFFFFF</color>
+    
+    <!-- Legacy Colors -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
